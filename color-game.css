@@ -65,6 +65,7 @@ button {
 	letter-spacing: 1px;
 	font-size: inherit;
 	transition: all .2s;
+	outline: none;
 }
 
 button:hover {
